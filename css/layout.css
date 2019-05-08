@@ -24,10 +24,11 @@
 
 /* Positioning Classes */
 
-.col-4 {
-  width: ;
+.row .col-4 {
+  width: 32%;
+  margin-left: 2%;
 }
-
-.col-8 {
-  
+.row .col-*
+.row .col-8 {
+  width: 66%;
 }
