@@ -115,6 +115,10 @@ iframe {
   margin-bottom: 1.5em;
 }
 
+#logo.shadow {
+    margin-bottom: 0;
+}
+
 .milk_text {
   font: bold 42px 'Elsie Swash Caps', cursive;
   color: white;
