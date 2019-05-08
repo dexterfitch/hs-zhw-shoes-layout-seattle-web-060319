@@ -35,5 +35,5 @@
   margin-left: 0;
 }
 .row div[class*="col-"] {
-  display: inline-block
+  display: inline-block;
 }
