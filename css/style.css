@@ -265,7 +265,9 @@ section a {
   text-decoration: underline;
 }
 
-#featured-brands, #archive-list { min-height: 500px; }
+#featured-brands, #archive-list {
+    min-height: 615px;
+}
 
 /********** Details **********/
 
